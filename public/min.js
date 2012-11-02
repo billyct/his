@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" dir="ltr" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" dir="ltr" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" dir="ltr" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html dir="ltr" lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Page not found | CreepyPixel</title>
+<link rel="profile" href="../../../gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="../../wp-content/themes/twentyeleven/style.css" />
+<link rel="pingback" href="../../xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="../../wp-content/themes/twentyeleven/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="CreepyPixel &raquo; Feed" href="../../feed/default.htm" />
+<link rel="alternate" type="application/rss+xml" title="CreepyPixel &raquo; Comments Feed" href="../../comments/feed/default.htm" />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='../../wp-content/plugins/bbpress/bbp-theme-compat/css/bbpress.css@ver=2.1.2' type='text/css' media='screen' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc.php@rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.4.1" />
+
+		<script type="text/javascript" charset="utf-8">
+			/* <![CDATA[ */
+			var ajaxurl = '../../wp-admin/admin-ajax.php';
+
+						/* ]]> */
+		</script>
+
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+
+<body class="error404 single-author two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="../../default.htm" title="CreepyPixel" rel="home">CreepyPixel</a></span></h1>
+				<h2 id="site-description">Just another WordPress site</h2>
+			</hgroup>
+
+						<a href="../../default.htm">
+									<img src="../../wp-content/themes/twentyeleven/images/headers/willow.jpg" width="1000" height="288" alt="" />
+							</a>
+			
+								<form method="get" id="searchform" action="../../default.htm">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu"><ul><li ><a href="../../default.htm" title="Home">Home</a></li><li class="page_item page-item-2"><a href="../../sample-page/default.htm">Sample Page</a></li></ul></div>
+			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+
+	<div id="primary">
+		<div id="content" role="main">
+
+			<article id="post-0" class="post error404 not-found">
+				<header class="entry-header">
+					<h1 class="entry-title">This is somewhat embarrassing, isn&rsquo;t it?</h1>
+				</header>
+
+				<div class="entry-content">
+					<p>It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching, or one of the links below, can help.</p>
+
+						<form method="get" id="searchform" action="../../default.htm">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+
+							<div class="widget widget_recent_entries">		<h2 class="widgettitle">Recent Posts</h2>		<ul>
+				<li><a href="../../hello-world/default.htm" title="Hello world!">Hello world!</a></li>
+				</ul>
+		</div>
+					<div class="widget">
+						<h2 class="widgettitle">Most Used Categories</h2>
+						<ul>
+							<li class="cat-item cat-item-1"><a href="../../category/uncategorized/default.htm" title="View all posts filed under Uncategorized">Uncategorized</a> (1)
+</li>
+						</ul>
+					</div>
+
+					<div class="widget widget_archive"><h2 class="widgettitle">Archives</h2><p>Try looking in the monthly archives.  <img src='../../wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>		<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'> <option value="">Select Month</option> 	<option value='http://www.creepypixel.com/2012/08/'> August 2012 </option>
+ </select>
+</div>
+					<div class="widget widget_tag_cloud"><h2 class="widgettitle">Tags</h2><div class="tagcloud"></div>
+</div>
+				</div><!-- .entry-content -->
+			</article><!-- #post-0 -->
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+			<div id="site-generator">
+								<a href="../../../wordpress.org/default.htm" title="Semantic Personal Publishing Platform" rel="generator">Proudly powered by WordPress</a>
+			</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+
+</body>
+</html>

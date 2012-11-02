@@ -1,0 +1,152 @@
+/**************
+   TABLES 
+ **************/
+table {
+	width:100%;
+	margin:0px 0px 0px;
+	border-collapse:collapse;
+    padding:0px;
+}
+.no-bg table {
+	border: solid #121212 1px;
+	border-top:none;
+}
+table thead th, table thead td {
+	background-image:url(../img/th-bg.jpg);
+	background-repeat:repeat-x;
+	background-position:top left;
+	padding:0px;
+	height:33px;
+	border-right:solid #171717 1px;
+	border-bottom:solid #2b2b2b 1px;
+	font-size:14px;
+}
+table thead th:last-child {
+	border-right:none;
+}
+table tbody th, table tbody td {
+	border-top:solid #242424 1px;
+	border-bottom:solid #171717 1px;
+	padding:7px 7px;
+	background-image:url(../img/sh-lvl-1.png);
+	background-repeat:repeat;
+}
+table tbody tr:last-child th, table tbody tr:last-child td {
+	border-bottom:none;
+}
+table tbody tr:first-child th, table tbody tr:first-child td {
+	border-top:none;
+}
+table tbody tr:hover th, table tbody tr:hover td {
+	background-image:url(../img/sh-lvl-2.png);
+}
+table tfoot { display:none; }
+table tfoot th, table tfoot td {
+	border-top:solid #242424 1px;
+	font-size:14px;
+	height:33px;
+	border-right:solid #171717 1px;
+}
+table tfoot th:last-child {
+	border-right:none;
+}
+.dataTables_length {
+	float:left;
+	width:50%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.dataTables_length label { width:100%; padding: 12px 0px; }
+.dataTables_length label select {
+	width: 70px;
+	height: 32px;
+	padding: 2px; 
+	margin-top: -10px;
+	margin-bottom: -10px;
+	margin-left: 10px;
+	background: #141414!important;
+}
+.dataTables_filter {
+	float:right;
+	width:50%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	text-align:right;
+	clear:right;
+}
+.dataTables_filter label { width:100%; padding: 12px 0px; }
+.dataTables_filter label input {
+	float:right;
+	margin-top: -10px;
+	margin-bottom: -10px;
+	margin-left: 10px;
+}
+.dataTables_info {
+	background-image: url(../img/th-bg.jpg);
+	background-repeat:repeat-x;
+	background-position:top left;
+	padding:8px;
+	float:left;
+	width:40%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.dataTables_paginate {
+	float:right;
+	width:60%;
+	text-align:right;
+	background-image: url(../img/th-bg.jpg);
+	background-repeat:repeat-x;
+	background-position:top left;
+	height:32px;
+}
+.dataTables_paginate a {
+	padding: 9px 10px;
+	display: inline-block;
+	border-left: solid #181616 1px;
+	cursor:pointer;
+}
+.dataTables_paginate a.paginate_active {
+	background-image:url(../img/sh-lvl-2.png);
+	background-repeat:repeat;
+}
+.dataTables_paginate a:hover {
+	background-image:url(../img/shi-lvl-1.png);
+	background-repeat:repeat;
+}
+.data-table, .dataTable {
+	clear:both;
+}
+/**************
+   REMINDER TABLE
+ **************/
+.reminder {
+	border-top:solid #161616 1px;
+	padding-left:0px;
+	margin:0px;
+	list-style:none;
+}
+.reminder li {
+	margin: 5px 0px;
+	border-bottom:solid #202020 1px;
+	padding: 9px 0px;
+}
+.reminder li label {
+	float: none;
+	padding: 0px 1px;
+	display: inline-block;
+	width: auto;
+	font-size: 18px;
+}
+.reminder li .icon {
+	font-size: 23px;
+	line-height: 7px;
+}
+.reminder li .number {
+	font-weight:bold;
+	color:#bee058;
+	font-size:20px;
+}
