@@ -45,7 +45,7 @@
                 <section class="full-width">
                     <div class="box no-bg">
                         <h1>欢迎</h1>
-                        <p>这是一个 <strong><?=$depart_name?></strong> 医生界面</p>
+                        <p>这是一个 <strong><?=isset($depart_name)?$depart_name."医生":"专家"?></strong> 医生界面</p>
                     </div>
                 </section>
             </div>  
