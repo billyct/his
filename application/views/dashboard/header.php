@@ -88,7 +88,7 @@
 	                    <a href="#">个人首页</a>
 	                    <a href="<?php echo base_url('/user/logout') ?>" class="logout">退出</a>
 	                </div>
-	            	<img src="http://tp3.sinaimg.cn/1842509582/50/40002660604/1" alt="John Doe">
+	            	<img src="http://tp3.sinaimg.cn/1842509582/50/40005793166/1" alt="billyct">
 	            </div>
 	        </section>
 	       <!--  <section id="responsive-nav">
